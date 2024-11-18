@@ -13,4 +13,4 @@ https://drive.google.com/file/d/1zs3OxwwmhHquxfT-zlkgHU6zs3PvJpA3/view
 本连接下载压缩包，本.exe文件只能在linux中使用
 
 以下为使用后的效果图
-![37.jpg](runs/detect/exp/37.jpg)![bus.jpg](runs/detect/exp/bus.jpg)![zidane.jpg](runs/detect/exp/zidane.jpg)
+![bus.jpg](runs/detect/exp/bus.jpg)![zidane.jpg](runs/detect/exp/zidane.jpg)
