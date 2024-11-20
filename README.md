@@ -1,4 +1,4 @@
-# yolov5_face_msc
+# yolov5_face_Mosaic
 这是一个给人脸打马赛克的项目
 
 项目由yolov5修改，先使用yolov5对人脸进行训练检测，再修改代码使其打马赛克
@@ -13,4 +13,5 @@ https://drive.google.com/file/d/1zs3OxwwmhHquxfT-zlkgHU6zs3PvJpA3/view
 本连接下载压缩包，本.exe文件只能在linux中使用
 
 以下为使用后的效果图
+
 ![bus.jpg](runs/detect/exp/bus.jpg)![zidane.jpg](runs/detect/exp/zidane.jpg)
